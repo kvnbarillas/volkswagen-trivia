@@ -1,0 +1,41 @@
+.header .logo {
+	width:354px;
+}
+
+.header {
+	background-color: #fff;
+}
+
+.header .content{
+	width: 1066px;
+	height: 225px;
+	margin: 0 auto;
+	padding: 0px 15px;
+}
+
+.header .progress{
+	float:right;
+	margin-top: 91px;
+}
+
+.header .progress li{
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.trivia {
+	background-color: #4e8694;
+	background-size: cover;
+	height: 500px;
+}
+
+.trivia #question {
+	color: #000000;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 26px;
+}
+
+#answer-box {
+	margin-top: 50px;
+}
