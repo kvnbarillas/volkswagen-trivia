@@ -29,13 +29,51 @@
 	height: 500px;
 }
 
-.trivia #question {
+.trivia #question1 {
 	color: #000000;
 	text-align: center;
 	padding-top: 120px;
 	font-size: 26px;
 }
 
+.trivia #question2 {
+	color: #000000;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 26px;
+}
+
+.trivia #question3 {
+	color: #000000;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 26px;
+}
+
+.trivia #question4 {
+	color: #000000;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 26px;
+}
+
+.trivia #question5 {
+	color: #000000;
+	text-align: center;
+	padding-top: 120px;
+	font-size: 26px;
+}
+
+.trivia #score {
+	font-size: 26px;
+	text-align: center;
+	padding-top: 174px;
+}
+
 #answer-box {
 	margin-top: 50px;
+}
+
+button {
+	margin-top: 40px;
 }
