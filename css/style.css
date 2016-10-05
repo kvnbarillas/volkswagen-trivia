@@ -29,35 +29,7 @@
 	height: 500px;
 }
 
-.trivia #question1 {
-	color: #000000;
-	text-align: center;
-	padding-top: 120px;
-	font-size: 26px;
-}
-
-.trivia #question2 {
-	color: #000000;
-	text-align: center;
-	padding-top: 120px;
-	font-size: 26px;
-}
-
-.trivia #question3 {
-	color: #000000;
-	text-align: center;
-	padding-top: 120px;
-	font-size: 26px;
-}
-
-.trivia #question4 {
-	color: #000000;
-	text-align: center;
-	padding-top: 120px;
-	font-size: 26px;
-}
-
-.trivia #question5 {
+.trivia {
 	color: #000000;
 	text-align: center;
 	padding-top: 120px;
